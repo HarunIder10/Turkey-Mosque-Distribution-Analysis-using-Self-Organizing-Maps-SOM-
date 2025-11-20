@@ -139,7 +139,7 @@ w_i(t+1) = w_i(t) + α(t) × h(i,BMU,t) × [x(t) - w_i(t)]
 ### Örnek Çıktılar
 
 #### 1. Ana Analiz Haritası
-![SOM Analysis](examples/turkey_mosque_som.png)
+![SOM Analysis](turkey_mosque_som.png)
 
 - **Sol**: Orijinal cami sayıları (kırmızı gradyan)
 - **Sağ**: SOM cluster'ları (renkli bölgeler)
