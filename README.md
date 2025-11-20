@@ -145,7 +145,7 @@ w_i(t+1) = w_i(t) + α(t) × h(i,BMU,t) × [x(t) - w_i(t)]
 - **Sağ**: SOM cluster'ları (renkli bölgeler)
 
 #### 2. U-Matrix (Mesafe Haritası)
-![U-Matrix](examples/turkey_mosque_som_umatrix.png)
+![U-Matrix](turkey_mosque_som_umatrix.png)
 
 - Koyu bölgeler: Cluster sınırları
 - Açık bölgeler: Homojen gruplar
